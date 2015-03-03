@@ -1,0 +1,58 @@
+c X je buď Rus alebo špión
+-3 -6 0 
+6 3 0
+-2  -5 0
+5  2 0
+-1  -4 0
+4  1 0
+
+c RE = 1, RM = 2, RS = 3, GE = 4, GM = 5, GS = 6, SE = 7, SM = 8, SS = 9
+c práve jeden je Rus, ostatní dvaja sú Nemci
+3  6  6 0
+3  6  5 0
+3  6  1 0
+
+3  2  2 0
+3  2  5 0
+3  2  1 0
+
+4  4  2 0
+4  4  5 0
+4  4  1 0
+
+5  6  6 0
+5  6  5 0
+5  6  1 0
+
+5  2  2 0 
+5  2  5 0
+5  2  1 0
+
+5  4  2 0
+5  4  5 0
+5  4  1 0
+
+4  6  6 0
+4  6  5 0
+4  6  1 0
+
+4  2  2 0
+4  2  5 0
+4  2  1 0
+
+4  4  2 0
+4  4  5 0
+4  4  1 0
+
+c  každý Rus musí byť špión
+-3  9 0
+-2  8 0
+-1  7 0
+
+c Stirlitz: "Müller, ty si taký Nemec, ako som ja Rus"
+-5  3 0
+-3  5 0 
+
+c eisman nie je r. spion
+1 0
+7 0
